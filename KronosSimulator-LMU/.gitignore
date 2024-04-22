@@ -1,0 +1,10 @@
+rover/ros2/build/
+rover/ros2/core
+rover/ros2/install/
+rover/ros2/libs
+rover/ros2/log/
+rover/ros2/SavedData.sdf
+__pycache__/
+rover/ros2/src/simulator/models/sidewalks
+rover/ros2/src/simulator/kiwi_gazebo/models/map_satellite*
+.vscode
